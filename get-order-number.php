@@ -4,4 +4,3 @@
 </form>
 
 <?php
-$orderNum = $_GET['orderNumber'];
